@@ -15,4 +15,4 @@ const twoSums = (array, target) => {
     return [];
 };
 
-console.log(twoSums([3, 5, -4], 1));
+console.log(twoSums([3, 5, -4, 8, 11, 1, -1, 6], 10));
